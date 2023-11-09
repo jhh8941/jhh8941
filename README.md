@@ -1,4 +1,5 @@
 ### Hi there 👋
+![badge](https://img.shields.io/badge/Seok%20Jin-Hello%20GitHub-orange)
 
 <!--
 **jhh8941/jhh8941** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
